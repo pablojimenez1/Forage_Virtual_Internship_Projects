@@ -65,5 +65,9 @@ Task 2 -Bypassing ransomware - Bruteforce the decryption key for a zip file encr
 
 ![image](https://github.com/user-attachments/assets/475f3949-aa71-469d-a338-0060508d5b7d)
 
+## Certificate
+![image](https://github.com/user-attachments/assets/14ba3c3c-6a20-4ee6-be60-1f3877891ef0)
+
+
 ### Conclusion
 This project provided hands-on experience in managing two critical cybersecurity incidents: addressing a zero-day vulnerability and responding to a ransomware attack. Through the simulation, I learned how to assess vulnerabilities, communicate security threats effectively, and apply technical skills to decrypt ransomware-encrypted files. This experience highlighted the importance of proactive incident response, strong communication, and the technical know-how to mitigate risks in a corporate environment.
