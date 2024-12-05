@@ -40,4 +40,10 @@ This repository documents my participation in the **Citi Technology Software Dev
 This repository reflects the skills and knowledge gained during the **Citi Technology Software Development Job Simulation**. I am eager to apply these skills in a **Technology Software Development** team at **Citi**, especially in improving internal processes and utilizing emerging technologies like **machine learning** for better **risk management** and **system efficiency**.
 
 
+## Certificate
+<p align="center">
+<img width="884" alt="citicybersecurity" src="https://github.com/user-attachments/assets/15ef89d6-b681-47ea-b1b9-4051b90693af">
+   
+
+
 
