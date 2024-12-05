@@ -1,5 +1,5 @@
 # Here is the background information on your task
-Now that you’ve completed your state diagram of the loan management system, your team lead has another task for you! Credit risk prediction is a critical aspect of loan approval, but currently, this process is largely handled manually. Risk is typically assessed by manual review of financial statements and credit reports, which is both time-consuming and prone to human error.
+Now that you’ve completed your state diagram of the loan management system, your team lead has another task for you! Credit risk prediction is a critical aspect of loan approval, but currently, this process is largely handled manually. Risk is typically assessed by manual review of financial statements and credit reports, which is both time-consuming and prone to human error. 
 
 Because of this limitation, your team lead thinks that there is an opportunity to make this process more efficient. They would like to incorporate machine learning into the loan approval pipeline by adding a credit risk modeling step that assesses the risk of a given loan. They believe that this change will make the credit risk assessment process both faster and more efficient.
 
