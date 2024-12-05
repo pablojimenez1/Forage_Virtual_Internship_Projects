@@ -45,6 +45,7 @@ Afterward, we analyze the AIG Infrastructure List below to find out which infras
 Based on the above infrastructure list, the "Product Development Team" is using Apache Log4j services. Finally, we draft an advisory email to alert the infrastructure owner of the seriousness of this vulnerability. 
 
 *Ref 1.3: Email*
+
 <img width="502" alt="AIGTask1" src="https://github.com/user-attachments/assets/bea11dd2-7a81-4b16-9854-7e572c8b791d">
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
