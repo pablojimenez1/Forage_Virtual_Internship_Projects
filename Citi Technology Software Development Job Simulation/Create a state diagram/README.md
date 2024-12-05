@@ -5,7 +5,7 @@ Before you get started with your state diagram, your manager has also provided y
 
 As an intern, your task is to draw a state diagram that reflects the loan management process, capturing the key states and transitions to provide a concise representation of the system's behavior. While developing this diagram, you'll learn how to create and interpret state diagrams, and you'll develop a better understanding of how a loan management system works!
 
-**For your first task, you'll be creating a state diagram for the loan management system at Citi. Here are your instructions:**
+**For your first task, you'll be creating a state diagram for the loan management system at Citi. Here are your instructions:** 
 
 1. Before you begin, review the links provided in the Resources section below. Ensure you understand how to use a state diagram to illustrate states, events, and actions within a system. Review the notation used to create a diagram with UML.
 2. Think through the requirements of the loan management process. What situations does your diagram need to cover? Be sure to review the supplemental resources for ideas.
