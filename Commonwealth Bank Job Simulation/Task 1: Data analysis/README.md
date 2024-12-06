@@ -26,7 +26,7 @@ Data was collected and structured by the Fraud team. This dataset consists of pa
   - F: Female
   - M: Male
 * **PostcodeOrigin:** The postcode of origin/source.
-* *Merchant:** The merchant's ID. 
+* **Merchant:** The merchant's ID. 
 * **Category:** Category of the purchase. 
 * **Amount:** Amount of the purchase.
 * **Fraud:** Target variable that shows if the transaction is fraudulent - 1 or non-fraudulent - 0.
