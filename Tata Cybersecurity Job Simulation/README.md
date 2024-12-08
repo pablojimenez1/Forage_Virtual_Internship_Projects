@@ -1,4 +1,4 @@
-# Cybersecurity Analyst Job Simulation
+# Tata Cybersecurity Analyst Job Simulation
 
 ## Overview
 This repository contains the practical tasks and solutions completed by Pablo Jimenez during the Cybersecurity Analyst Job Simulation conducted in June 2024. The focus of the simulation was on Identity and Access Management (IAM) fundamentals, strategy assessment, custom solution development, and platform integration.
