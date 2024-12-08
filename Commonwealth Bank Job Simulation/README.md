@@ -19,3 +19,7 @@ The task involved researching the Australian Cyber Security Centre's (ACSC) guid
 ### Task 4: Penetration Testing Skill Development through HackThisSite Challenges
 
 This task involved creating an account on HackThisSite and completing all 11 levels of the "Basic" web challenges. Following this, a Penetration Testing Report was documented, which included an executive summary, scope, descriptions of vulnerabilities, key findings, and security recommendations for each challenge level. The knowledge gained from these challenges could be applied to real-world scenarios to enhance penetration testing skills.
+
+## Certificate
+[commonwealthbank_completion_certificate.pdf](https://github.com/user-attachments/files/18050532/commonwealthbank_completion_certificate.pdf)
+
