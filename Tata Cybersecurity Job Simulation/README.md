@@ -20,3 +20,6 @@ This repository contains the practical tasks and solutions completed by Pablo Ji
 ### 4. Platform Integration
 - Integrating IAM solutions with various platforms and systems.
 - Ensuring seamless and secure access across different environments.
+
+## Certificate
+![image](https://github.com/user-attachments/assets/611e43b7-87d2-4895-b97e-ea30b2f0cec5)
