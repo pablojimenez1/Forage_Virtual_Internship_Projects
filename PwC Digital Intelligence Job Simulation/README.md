@@ -1,4 +1,4 @@
-# PWC Digital Intelligence
+# PwC Digital Intelligence
 
 •	Completed a job simulation involving data analysis and modeling for the Digital Intelligence team.
 
